@@ -1,0 +1,1 @@
+{"name":"hostbrid-example-service","version":"1.0.0","private":true,"type":"module","license":"MIT","engines":{"node":"22.23.3"},"scripts":{"start":"node server.mjs","test":"node --test scripts/service.test.mjs","check":"node --check server.mjs && node --check scripts/healthcheck.mjs"}}
